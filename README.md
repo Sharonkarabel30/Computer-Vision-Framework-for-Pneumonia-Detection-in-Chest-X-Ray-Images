@@ -1,0 +1,2 @@
+# Computer-Vision-Framework-for-Pneumonia-Detection-in-Chest-X-Ray-Images
+The primary objective is to build a robust image-classification model that can distinguish between “Normal” and “Pneumonia” cases by applying deep learning and convolutional neural network techniques. The project seeks to support rapid and reliable pneumonia screening and demonstrate the effectiveness of AI-driven medical image analysis.
