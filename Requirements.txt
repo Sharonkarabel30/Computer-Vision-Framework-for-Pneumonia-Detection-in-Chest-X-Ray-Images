@@ -1,6 +1,9 @@
-streamlit
-tensorflow
-opencv-python
-numpy
-pillow
-reportlab
+streamlit==1.29.0
+tensorflow==2.18.0
+numpy==1.26.0
+opencv-python==4.8.0.74
+Pillow==10.1.0
+matplotlib==3.8.0
+pandas==2.1.1
+scikit-learn==1.3.2
+reportlab==4.0.3
