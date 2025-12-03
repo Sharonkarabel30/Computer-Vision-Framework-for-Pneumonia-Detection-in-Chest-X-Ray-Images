@@ -12,7 +12,7 @@ Completed
 
 🛠️ Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/Pneumonia-Detection.git
+git clone https://github.com/Sharonkarabel30/Computer-Vision-Framework-for-Pneumonia-Detection-in-Chest-X-Ray-Images.git
 cd Pneumonia-Detection
 
 2️⃣ Create & activate a virtual environment
